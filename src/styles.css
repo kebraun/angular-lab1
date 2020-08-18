@@ -1,1 +1,22 @@
 /* You can add global styles to this file, and also import other style files */
+
+body,
+h1,
+h2,
+p,
+ol,
+li {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: linear-gradient(to right, #f857a6, #ff5858);
+  font-family: "Open Sans", sans-serif;
+}
+
+input,
+button {
+  border-radius: 5px;
+  padding: 5px;
+}
